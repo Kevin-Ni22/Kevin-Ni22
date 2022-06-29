@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kevin-Ni22
 - 👀 I’m interested in Engineering and Finance
 - 🌱 I’m currently studying Engineering Science at the University of Toronto
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Email: kevin.ni@mail.utoronto.ca
 
 <!---
