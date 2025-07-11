@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kevin-Ni22
-- 👀 I’m interested in Robotics Engineering
-- 🌱 I’m currently studying Engineering Science at the University of Toronto
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in the intersection of Finance and AI
+- 🌱 I’m currently studying Robotics Engineering in Engineering Science at the University of Toronto. I am also minoring in Engineering Businesss and Artificial Intelligence.
 - 📫 How to reach me - Email: kevin.ni@mail.utoronto.ca
 
 <!---
